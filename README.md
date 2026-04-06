@@ -52,6 +52,12 @@ A learning project to practice MongoDB CRUD operations using **Express.js** and 
 ```
 7. Visit `http://localhost:8080/chats`
 
+## Demo
+
+![Chats Page](screenshots/Screenshot%202026-04-06%20135155.png)
+![New Chat](screenshots/Screenshot%202026-04-06%20135224.png)
+![Edit Chat](screenshots/Screenshot%202026-04-06%20135239.png)
+
 ## What I Learned
 
 - Connecting MongoDB with Mongoose
