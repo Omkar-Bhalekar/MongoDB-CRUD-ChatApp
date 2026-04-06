@@ -16,7 +16,6 @@ A learning project to practice MongoDB CRUD operations using **Express.js** and 
 - Create a new chat
 - Edit a message
 - Delete a chat
-- Toggle message visibility on the main page
 
 ## Project Structure
 
