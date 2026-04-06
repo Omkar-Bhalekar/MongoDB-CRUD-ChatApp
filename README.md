@@ -20,19 +20,13 @@ A learning project to practice MongoDB CRUD operations using **Express.js** and 
 
 ## Project Structure
 
-mongodb-crud-chat/
-├── models/
-│   └── chat.js
-├── views/
-│   ├── chats.ejs
-│   ├── edit.ejs
-│   └── newChat.ejs
-├── .env
-├── .env.example
-├── .gitignore
-├── index.js
-├── init.js
-└── package.json
+- `models/` — Mongoose schema
+- `views/` — EJS templates (chats, edit, newChat)
+- `index.js` — Main server file
+- `init.js` — Database seeder
+- `.env.example` — Environment variable template
+- `.gitignore` — Git ignore rules
+- `package.json` — Project dependencies
 
 ## How to Run Locally
 
